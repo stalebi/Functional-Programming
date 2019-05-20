@@ -3,8 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1558231409886">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1558310857451">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="/Scala Console" timestamp="1557606096036">
         <mark key="[" line="0" column="0" />
@@ -35,13 +37,17 @@
       <file name="$USER_HOME$/IdeaProjects/Functional-Programming/build.sbt" timestamp="1558230151944">
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Functional-Programming/src/main/scala/functional_programming_principles/recfun/Main.scala" timestamp="1558306924812">
+      <file name="$USER_HOME$/IdeaProjects/Functional-Programming/src/main/scala/functional_programming_principles/recfun/Main.scala" timestamp="1558310679589">
         <mark key="'" line="23" column="17" />
+        <mark key="[" line="44" column="26" />
+        <mark key="]" line="44" column="92" />
+        <mark key="o" line="44" column="91" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Functional-Programming/src/main/scala/test2.scala" timestamp="1557605620087">
         <mark key="[" line="0" column="13" />
       </file>
-      <file name="/fragment.java" timestamp="1558230352720">
+      <file name="$USER_HOME$/IdeaProjects/Functional-Programming/src/test/scala/recfun/CountChangeSuite.scala" timestamp="1558310435494" />
+      <file name="/fragment.java" timestamp="1558310364307">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -50,8 +56,11 @@
       <jump line="25" column="17" filename="$USER_HOME$/IdeaProjects/Functional-Programming/src/main/scala/functional_programming_principles/recfun/Main.scala" />
     </jumps>
     <registers>
+      <register name="0" type="4">
+        <text>amount,</text>
+      </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">bG9vcCA=</text>
+        <text>amount,</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">bG9vcCA=</text>
